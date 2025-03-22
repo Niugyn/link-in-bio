@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meine Lieblingsprodukte</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; margin: 20px; }
+        .link-button { display: block; margin: 10px auto; padding: 15px; width: 80%;
+                       max-width: 300px; background: #007bff; color: white; text-decoration: none;
+                       border-radius: 10px; }
+    </style>
+</head>
+<body>
+    <h1>Meine Lieblingsprodukte</h1>
+    <p>Hier findest du alle meine empfohlenen Produkte:</p>
+    <a href="https://www.amazon.de/dein-affiliate-link" class="link-button">Produkt 1</a>
+    <a href="https://www.amazon.de/dein-affiliate-link" class="link-button">Produkt 2</a>
+    <a href="https://www.amazon.de/dein-affiliate-link" class="link-button">Produkt 3</a>
+</body>
+</html>
